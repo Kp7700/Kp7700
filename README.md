@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on doing projects with other colleagues 
-- 📫 My email - kp72007200@gmail.com
+- 📫 My email - I will update soon
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Programmers prefer dark mode because light attracts bugs!
 
